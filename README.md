@@ -23,7 +23,7 @@ About the Project :-
 
     🔗 Author - Bhavya S Chauhan
 
-    ✅ Linkedin ✅ https://www.linkedin.com/in/bhavya1408/ ✅
-    ✅ Github   ✅ https://github.com/bhavyasinghchauhan             ✅
+    ✅ Linkedin ✅ https://www.linkedin.com/in/bhavya1408/ 
+    ✅ Github   ✅ https://github.com/bhavyasinghchauhan   
 
 ---
